@@ -53,7 +53,7 @@ npm run dev
 
 ## 🎥 Demo Walkthrough
 
-🎬 [Watch Demo Video](https://drive.google.com/file/d/1joEO0swWqmCMZpGpq3kw9Q_Db2z-hl0M/view)
+🎬 [Watch Demo Video](https://drive.google.com/file/d/19SVeo3u4UQKlYmfJWgFU6LyP0oI6Wwqy/view) (5:04 Min)
 
 ---
 
