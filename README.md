@@ -1,7 +1,3 @@
-Sure! Here's your **copy-paste ready README.md** file for your **ERMS (Engineering Resource Management System)** project:
-
----
-
 # 📋 Engineering Resource Management System (ERMS)
 
 **ERMS** is a role-based resource and project management platform for engineering teams. Managers can create projects, assign engineers, and track resource allocation, while engineers can view their assigned projects and tasks. The dashboard provides clear insights into workload, capacity, and project status.
@@ -191,6 +187,6 @@ This project was built with real-time support and advice from ChatGPT in the fol
 
 For feedback, questions, or collaboration:
 
-📧 Email: [abhiseksikdar40@gmail.com](mailto:abhiseksikdar40@gmail.com)
-🔗 LinkedIn: [Abhisek Sikdar](https://www.linkedin.com/in/abhisek-sikdar)
+📧 Email: abhiseksikdar40@gmail.com
+🔗 LinkedIn: [Abhisek Sikdar](www.linkedin.com/in/abhisek-sikdar)
 
