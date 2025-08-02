@@ -9,7 +9,7 @@ function App() {
   return (
     <div style={{ position: 'relative', minHeight: '100vh' }}>
       <Header />
-      <main style={{ paddingTop: '4rem' }}>
+      <main style={{ paddingTop: '1rem' }}>
         <Outlet />
       </main>
     </div>
