@@ -218,7 +218,7 @@ const [selectedProject, setSelectedProject] = useState(null);
 
       {/* Projects List */}
       <div
-        className="bg-dark p-3 rounded shadow mt-4"
+        className="bg-dark p-3 rounded shadow mt-1"
         style={{ maxHeight: "250px", display: "flex", flexDirection: "column" }}
       >
         <div className="d-flex justify-content-between align-items-center mb-2">
