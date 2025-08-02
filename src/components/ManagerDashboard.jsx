@@ -126,7 +126,7 @@ const [selectedProject, setSelectedProject] = useState(null);
         {/* Engineers and Capacity */}
         <div
           className="col-md-6 mb-4 bg-dark p-3 rounded shadow d-flex flex-column"
-          style={{ maxHeight: "200px" }}
+          style={{ maxHeight: "300px" }}
         >
           <div className="d-flex justify-content-between align-items-center mb-3">
             <h4 className="mb-0 text-white">Engineers and Capacity</h4>
