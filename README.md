@@ -188,5 +188,5 @@ This project was built with real-time support and advice from ChatGPT in the fol
 For feedback, questions, or collaboration:
 
 📧 Email: abhiseksikdar40@gmail.com
-🔗 LinkedIn: [Abhisek Sikdar](www.linkedin.com/in/abhisek-sikdar)
+🔗 LinkedIn: [Abhisek Sikdar](https://www.linkedin.com/in/abhisek-sikdar)
 
